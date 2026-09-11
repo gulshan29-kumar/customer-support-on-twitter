@@ -23,9 +23,6 @@ All metrics reported below were computed from scratch on our independent 200-exa
 | **Escalation Policy** | **Auto-Handle Rate** | — | — | **38.00%** |
 | **LLM-as-a-Judge** | **Overall Score (1–5)** | — | — | **4.67 / 5.0** |
 
-> [!IMPORTANT]
-> **Clarification on Previous Notebook (`Rp_task_2.ipynb`)**:
-> The preliminary exploratory notebook reported ~80% CV accuracy for predicting the *Company/Organization* (AmazonHelp vs AppleSupport vs Uber vs Delta vs Spotify), **not customer intent**. Our true intent classification performance on the independent AmazonHelp Golden Evaluation Set is **84.00%** (Macro F1: **0.8376**). See [`docs/misleading_headline.md`](docs/misleading_headline.md) for details.
 
 ---
 
