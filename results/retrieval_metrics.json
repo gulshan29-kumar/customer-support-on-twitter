@@ -1,0 +1,22 @@
+{
+  "evaluation_queries": 50,
+  "total_cases_evaluated": 250,
+  "top_1_useful_rate": 0.96,
+  "top_5_useful_rate": 0.98,
+  "mean_relevance_score_0_to_2": 1.016,
+  "score_distribution": {
+    "clearly_useful_2": 22,
+    "somewhat_useful_1": 210,
+    "irrelevant_0": 18
+  },
+  "rubric_definition": {
+    "0": "Irrelevant context or dissimilar issue",
+    "1": "Somewhat useful / same problem space with general instructions",
+    "2": "Clearly useful / actionable solution matching customer query directly"
+  },
+  "limitations": [
+    "Lexical TF-IDF n-grams can miss paraphrases without shared vocabulary.",
+    "Short queries have lower overlap scores due to sparse n-grams.",
+    "Historical responses often link to private DMs/forms, limiting full ground-truth text visibility."
+  ]
+}
