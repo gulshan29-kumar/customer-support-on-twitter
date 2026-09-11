@@ -1,0 +1,13 @@
+,precision,recall,f1-score,support
+account_or_access,1.0,0.7727,0.8718,22.0
+booking_or_travel,1.0,0.6429,0.7826,14.0
+complaint_or_feedback,0.95,0.8636,0.9048,22.0
+delivery_or_delay,1.0,0.9643,0.9818,28.0
+other,0.5,1.0,0.6667,20.0
+payment_or_billing,0.9412,0.6667,0.7805,24.0
+product_or_service_info,0.7895,0.6818,0.7317,22.0
+refund_or_compensation,0.92,0.9583,0.9388,24.0
+technical_issue,0.8462,0.9167,0.88,24.0
+accuracy,0.84,0.84,0.84,0.84
+macro avg,0.883,0.8297,0.8376,200.0
+weighted avg,0.8862,0.84,0.8467,200.0
