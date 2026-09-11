@@ -140,6 +140,9 @@ def create_demo():
 
 
 if __name__ == "__main__":
+    import os
+    port = int(os.environ.get("PORT", 7860))
+    server_name = os.environ.get("HOST", "0.0.0.0")
     demo = create_demo()
-    print("Launching Gradio demo server on local port...")
-    demo.launch(share=False, inbrowser=False)
+    print(f"Launching Gradio demo server on {server_name}:{port}...")
+    demo.launch(server_name=server_name, server_port=port, share=False, inbrowser=False)
