@@ -266,16 +266,6 @@ From the automated analysis in `results/failure_cases.csv` (34 total failure cas
 
 ---
 
-## 19. What Is Misleading About My Headline Number?
-*(See `docs/misleading_headline.md` for the full essay).*
-
-### Key Deceptions Disclosed:
-1. **The Notebook's 80% was Brand Prediction, NOT Intent**: The preliminary notebook predicted which company a user tweeted at, a trivial topical task. Our true intent classification accuracy is 84.00%.
-2. **Sample Variance (N = 200)**: Over 200 samples, 84% accuracy has a 95% confidence interval of `[78.4%, 88.6%]`.
-3. **Class Skew in Production**: The golden set was stratified to give equal representation to rare classes (e.g., travel), whereas live traffic is dominated (>75%) by delivery and generic queries.
-4. **Single-Metric Blindness**: A system with 95% intent accuracy that hallucinates financial refunds on the remaining 5% is a commercial failure. Accuracy must be evaluated alongside escalation safety.
-
----
 
 ## 20. One More Week: Next Steps Plan
 If given one more week to advance this project toward production readiness:
