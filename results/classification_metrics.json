@@ -1,0 +1,24 @@
+{
+  "golden_set_size": 200,
+  "baseline_1_majority": {
+    "accuracy": 0.1,
+    "macro_precision": 0.0111,
+    "macro_recall": 0.1111,
+    "macro_f1": 0.0202,
+    "weighted_f1": 0.0182
+  },
+  "baseline_2_simple_tfidf_logreg": {
+    "accuracy": 0.585,
+    "macro_precision": 0.861,
+    "macro_recall": 0.5579,
+    "macro_f1": 0.5828,
+    "weighted_f1": 0.6177
+  },
+  "final_tuned_tfidf_logreg": {
+    "accuracy": 0.84,
+    "macro_precision": 0.883,
+    "macro_recall": 0.8297,
+    "macro_f1": 0.8376,
+    "weighted_f1": 0.8467
+  }
+}
