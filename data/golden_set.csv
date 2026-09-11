@@ -1,0 +1,201 @@
+id,customer_text,gold_intent,brand,support_tweet_id,customer_tweet_id
+1,Where is my order?,delivery_or_delay,AmazonHelp,2564,2565
+2,Your app just says Amazon shipping Q40697376884,delivery_or_delay,AmazonHelp,229748,229747
+3,"Original delivery estimate was Friday, and need it urgently!",delivery_or_delay,AmazonHelp,315305,315307
+4,"Order cancelled Sep26, still no news of refund. TrackingID 451101869025",delivery_or_delay,AmazonHelp,224949,224951
+5,"Last week was delivered to the wrong address, today was “Prime” handling..nice.",delivery_or_delay,AmazonHelp,367424,367425
+6,what's the craic with paying next day delivery and it not being here ? Is this a joke ?,delivery_or_delay,AmazonHelp,295890,295892
+7,"the mantra used to be based around 2-Day Shipping, but I have yet another “delayed delivery”.",delivery_or_delay,AmazonHelp,320869,320871
+8,Ummm why are you delivering packages at 11:20pm? That order was supposedly going to arrive by 9pm.,delivery_or_delay,AmazonHelp,382234,382235
+9,"Hey , how is something I ordered today with #prime have a delivery date of Dec 7? How is that TWO days?",delivery_or_delay,AmazonHelp,448614,448616
+10,"Sort it out please, I don't pay the subscription fee to have my parcels left where anyone could steal them.",delivery_or_delay,AmazonHelp,386777,386778
+11,Pathetic experience with ur delivery as Order# 406-3337694-5036344 not delivered on time. CSE can't track order,delivery_or_delay,AmazonHelp,324395,324397
+12,Dont believe u & at checkout said 2 day shipping guarantee by 10/4 but after money taken out delivery dates changed,delivery_or_delay,AmazonHelp,204945,204947
+13,"It is very unfortunate , disappointing that Amazon india miserably failing to deliver on the date committed by them .",delivery_or_delay,AmazonHelp,377761,377763
+14,"(was refused at the time of delivery. If you have not refused the package, please contact Amazon.) Extract frm txt msgs.",delivery_or_delay,AmazonHelp,381952,381950
+15,"Ordered a cell phone case from . Tracking info says it was delivered yesterday, but I never received anything. So annoying.",delivery_or_delay,AmazonHelp,301067,301069
+16,Whays the point of even doing same day shipping when the deliveries aren't even attempted... home all day and no one came by.,delivery_or_delay,AmazonHelp,313667,313669
+17,disappoints again. Received text that groceries were delivered but they weren’t (prob wrong house). And they can’t re-deliver 😩,delivery_or_delay,AmazonHelp,292840,292841
+18,No. This is the 2nd order in a couple of weeks to go for a day trip around Dundee. The last parcel eventually came 4 days later.,delivery_or_delay,AmazonHelp,279696,279697
+19,paid 4 nextday delivery only 2 b told after notifications all day saying that they r delivering 2day only 2 b told they cant deliv,delivery_or_delay,AmazonHelp,46487,46489
+20,I ordered an Apple Ipad whose delivery date was yesterday (Oct 4). I haven't received it yet and customer care just wastes my time☹️,delivery_or_delay,AmazonHelp,232173,232174
+21,hello guys the third party seller send me an email today send me a tracking number of the item in Oct 2nd still the package unresolved 😕,delivery_or_delay,AmazonHelp,253419,253418
+22,"Its been 2 days since d expctd delivery date, still no cnfrmtion of my order delivery, I hv called 8 times since 6oct. Only false promises.",delivery_or_delay,AmazonHelp,285054,285053
+23,my parcel was left right outside my front door for anyone to steal! I even have a safe place set up which the delivery person ignored! Fuming!!!!,delivery_or_delay,AmazonHelp,103054,103059
+24,"never ever using you again. 5 agents promising call backs but nothing. Items not delivered but showing they are!!! Its for us now to deal with xmas,and rest of year.",delivery_or_delay,AmazonHelp,456546,456547
+25,Hey what is going on with your provider ? I’ve ordered 5 things and 4 of them have been delayed. Ordered a Prime on 3 of them. On is now 7 days late...should have just bought it at the store,delivery_or_delay,AmazonHelp,78821,78823
+26,After a few months of issues with deliveries and escalation to fulfillment and asking for postmaster general-- my latest missing package arrived in a brand new box and the item inside bent at 45° angle... 120in curtain rod.,delivery_or_delay,AmazonHelp,459058,459060
+27,"I Got my #XboxOneX and the Outside box looked like Ace Ventura delivered it, Amazon used to big of a box and did not put anything inside to protect it worst delivery i have ever received thank goodness the #ScorpioEdition box was fine and it is a miracle!",delivery_or_delay,AmazonHelp,264446,264447
+28,"And to add insult to injury, an amazon delivery driver WAS outside my house. I watched him from the window shuffle boxes around the back of his van then the side of his van then drive off. What if the parcel is lost and can’t be returned? I’m certainly not taking the hit for that",delivery_or_delay,AmazonHelp,448244,448245
+29,I want my refund,refund_or_compensation,AmazonHelp,280460,280459
+30,It has been refunded now to my amazon account,refund_or_compensation,AmazonHelp,277130,277131
+31,And this is your fault so refund is not a solution right?,refund_or_compensation,AmazonHelp,379407,379401
+32,"I want my money back . I know you have no solution, only time pass.",refund_or_compensation,AmazonHelp,388475,388474
+33,I was promised a full refund for an item but I have been not refunded postage,refund_or_compensation,AmazonHelp,44926,44928
+34,Will get refund for the product price that I paid? I mean credit back to Credit Card?,refund_or_compensation,AmazonHelp,319832,319830
+35,"one of the worst return and refund experiences on amazon, 40 days and issue still not resolved",refund_or_compensation,AmazonHelp,246959,246960
+36,our money is not safe with Amazon. They are not giving my refund after providing me a faulty product,refund_or_compensation,AmazonHelp,313699,313700
+37,Hi amazon. I have cancelled my membership thank you for your help. By when will I get my refund? Thanks.,refund_or_compensation,AmazonHelp,395497,395495
+38,"Hope will get a reply or call soon, just to remind you it’s regarding for refund confirmation for mottog5plus",refund_or_compensation,AmazonHelp,285612,285611
+39,For my return amazon has issued refund amount on 29th oct 2017 but this is still not credited into my bank account,refund_or_compensation,AmazonHelp,46491,46492
+40,Don't reply bullshit.. Bankrupt company don't have money to refund customer... From top to bottom everyone is hopeless,refund_or_compensation,AmazonHelp,234778,234779
+41,Ordered a SNES classic from only for it to mysteriously dissapear in the post! money refunded as no more in stock. Merde.,refund_or_compensation,AmazonHelp,287910,287913
+42,Your employees make only fake promise it's 7:09 no one came for pickup. Give me my refund I will not buy from u guys anymore,refund_or_compensation,AmazonHelp,429082,429081
+43,I ordered based on info on your manufacturer section which was wrong and thats why I dont want replacement but refund. Pls help,refund_or_compensation,AmazonHelp,325432,325435
+44,. I bought a used sound bar on Warehouse and the remote arrived like this. I don't want to refund the whole thing & send it back.,refund_or_compensation,AmazonHelp,377735,377738
+45,Worst service ever i experienced till date all though i am prime member they have not refunded my money Order # 171-4985790-4314722,refund_or_compensation,AmazonHelp,300049,300050
+46,Nothing that I hadn't received in the last 10 days. How about you at least process refund? Haven't seen a more horrific customer service,refund_or_compensation,AmazonHelp,234198,234199
+47,Dear Amazon. CC filed a request for my refund. But wht about my shopping that I was supposed to be bought in Diwali sale which is going on.,refund_or_compensation,AmazonHelp,179193,179194
+48,"Item ws returned on 30 Sep n today is 6th of Oct, yet I hav nt received my refund. NO updat aftr 1st oct, wht is wrong? Pls refund my money.",refund_or_compensation,AmazonHelp,279322,279321
+49,HEY! I dont want a refund. I want my ordered items. I have planned to use it this weekend and now i cant. Please send my ordered items. I repeat. I dont want a refund,refund_or_compensation,AmazonHelp,124776,124774
+50,Today when I was checking my ordereds I've come to know that refund not initiated for this product. When I called to customer care they said there is problem with product. I dont understand what's happening.,refund_or_compensation,AmazonHelp,21531,21529
+51,amazon tell me that you will get your 500 cashback in 5 days.After 5 days i call the executive they tell me you will not get the cashback so have send the call recording so they tell me we will give cashback and now they tell me no my email id is __email__,refund_or_compensation,AmazonHelp,442832,442836
+52,"You are getting paid just to reply the tweets and you are only concern about your 9 to 5 job. Nothing else, if you would have really understood the pain behind such experience you would have gone extra mile and helped me with quick pick up and quick refund within 24 hr. Expected.",refund_or_compensation,AmazonHelp,442883,442882
+53,to my credit card.,payment_or_billing,AmazonHelp,341587,341590
+54,AMAZON PRIME IS DRAINING MY BANK ACCOUNT PLS HALP,payment_or_billing,AmazonHelp,69722,69724
+55,I get cash back if i did 90%of my payment through Amazon pay,payment_or_billing,AmazonHelp,222672,222670
+56,What is this ? The #GST charged by you on which price !!! cont... 2/1,payment_or_billing,AmazonHelp,227060,182515
+57,"You told that it was bcoz of limited stock, u should check stick b4 payment",payment_or_billing,AmazonHelp,420471,420470
+58,there is an issue of recharge relience jio via Amazon pay so plz check this issue,payment_or_billing,AmazonHelp,224397,224399
+59,"being charged for amazon prime & when I go to cancel it, it’s saying I’m not a member😠😠😠",payment_or_billing,AmazonHelp,1707,1708
+60,"you have charged me twice for 2 items, totalling £435 please tell me you will rectify this......",payment_or_billing,AmazonHelp,149265,149266
+61,Can you please PM me I have a problem with my kindle fire it won't start up but it's fully charged :(,payment_or_billing,AmazonHelp,126029,126030
+62,"as a prime member curious if you can make a payment with the amazon app, if not when will it be available?💸",payment_or_billing,AmazonHelp,384191,384192
+63,I am a Prime customer. Is Amazon Video free for me or do I still need to pay some monthly subscription charges?,payment_or_billing,AmazonHelp,25260,25261
+64,Hi the payment for a recent order did not go through earlier but now the money has been debited twice. Kindly help.,payment_or_billing,AmazonHelp,238916,238917
+65,I have ordered a mobile with exchange offer. Is it necessary to give chargers and earphone with mobile during pickup???,payment_or_billing,AmazonHelp,325866,325867
+66,Now if my #prime fees aren’t due until the 22nd why would they suspend my membership TODAY? What’s with these companies?💩🤢,payment_or_billing,AmazonHelp,377930,377933
+67,Hey your app is throwing errors while I try to make the payment. Tried a number of times already!! My orders got cancelled :(,payment_or_billing,AmazonHelp,306924,306925
+68,Just ordered One plus 5t. Please get in touch with me. There is an issue with the payment option. Order no: 171-3942478-2297142,payment_or_billing,AmazonHelp,131661,131662
+69,reg. Ord 404-7091504-9405917. You should have alerted me regarding the deduction to my Amazon Pay Balance before doing so. #sucks,payment_or_billing,AmazonHelp,25926,25927
+70,Reporting is next step... First show me what u said.. R u saying that third party app Komparify is the one to be used for recharge?,payment_or_billing,AmazonHelp,424324,424323
+71,I spoke to a nice lady about the double charge. She said it was an automatic repayment set on my account. This lady took it off but . . .,payment_or_billing,AmazonHelp,417239,417241
+72,Called the CS already. I think I'm just going to leave it charged for at least a few hours and see what happens. I am so confused right now.,payment_or_billing,AmazonHelp,105139,105137
+73,Impossible de me connecté sur ordinateur et mon téléphone j’ai supprimer l’appli puis je l’ai re télécharger ils disent un problème est survenu et c’est tout,payment_or_billing,AmazonHelp,172299,172297
+74,No Not Again. I have written it at least thrice by now...and narrated the same over my phone call...not again. You go and read. Why did you not alert me before deducting the pay balance??? #amazonsucks,payment_or_billing,AmazonHelp,25911,25910
+75,"J'ai reçu un mail dite un agent à pris en charge mon dossier, mais il lui faut le temps faire les vérifications. Merci, j'espère qu'il m'aidera. Demain soir, je vais mettre à jour l'état de mon remboursement. Si c'est réglé, c'est mieux.",payment_or_billing,AmazonHelp,447848,447849
+76,I have £173.94 of pending transactions currently waiting to be paid to amazon. I have only ordered about £127 of stuff and I was told the transactions would clear and the extra payments would be cancelled when I received the order. I sent two emails regarding this and got 1 back.,payment_or_billing,AmazonHelp,67485,67483
+77,foi um kindle!! <3,technical_issue,AmazonHelp,155196,155194
+78,A promoção do Kindle vai até quando? :),technical_issue,AmazonHelp,121043,109790
+79,Hmmm. So I’ve received an invite for amazon Echo.,technical_issue,AmazonHelp,224644,224645
+80,Amazon PrimeとKindle Unlimitedは一つになったのかな？ Prime Reading？,technical_issue,AmazonHelp,231529,231530
+81,is your Alexa App currently down? Won't start on my iPhone...,technical_issue,AmazonHelp,360259,360260
+82,Amazon Prime Music Incoming? Echo description shows on Amazon India.,technical_issue,AmazonHelp,224634,224636
+83,is there a prob with your app on smart TVs? 2 days and still not working 😩,technical_issue,AmazonHelp,362441,362442
+84,Just received the Echo DOT & is not working out of the box! No manual is provided!,technical_issue,AmazonHelp,27822,27823
+85,Currently trying to figure out why my computer at work won’t load Amazon Prime Video???,technical_issue,AmazonHelp,266013,266014
+86,"No necesito ayuda, solo agradecer por el regalo del ebook al comprar el Kindle, un saludo 👋🏻😄",technical_issue,AmazonHelp,172307,172308
+87,How do I disable notifications indicated by the bell icon in upper left corner of iOS Kindle app?,technical_issue,AmazonHelp,12503,12505
+88,I've had my Kindle fire 10 months. And the battery seems to die really quickly. Anyone else had this ??,technical_issue,AmazonHelp,227949,227950
+89,"It’s the app that comes already installed. Can you reinstall it? Sorry, I don’t know anything about Kindles!",technical_issue,AmazonHelp,372195,372194
+90,"Still waiting at the doctors, it’s been 1hr & 5 minutes without my kindle. I’m going through the stages of grief.",technical_issue,AmazonHelp,271929,271930
+91,"Sí, de hecho ya me cancelaron mi tarjeta porque no identificaba el cobro. Pero en el Edo de cuenta dice ese concepto",technical_issue,AmazonHelp,155258,155257
+92,oi! o dicionário pt-br sumiu do meu kindle (tenho só os outros na pasta de arquivos). tenho como acessá-lo gratuitamente?,technical_issue,AmazonHelp,411092,411093
+93,"The desktop site is not working properly, when u click (under ebooks )next page it is going back 2 home page(main amazon page",technical_issue,AmazonHelp,182896,182897
+94,my frnd got an invite for Amazon Echo....can I book echo for me using his invite? Because I cannot book using his invite. Help.,technical_issue,AmazonHelp,378692,378693
+95,No same issue. !! I’ve brought the song on iTunes instead. Needed this song for the cafe playlist. But your copy is not Working!!,technical_issue,AmazonHelp,386754,386752
+96,"Cuándo me quejo me decís que lo he hecho de otra cuenta, cuando os envío el correo de confirmación del pedido de mi cuenta... Silencio",technical_issue,AmazonHelp,179679,179680
+97,"I appreciate the reply - Yes, I have reviewed those but still can't get the Dot to get on the public WiFi - updated Dot firmware, but no luck",technical_issue,AmazonHelp,455464,455466
+98,you gave me a code £10 off £50 (valid till 22nd Dec) and it's not working. Everything in my basket is sold by and fulfilled by yourselves as per the T's & C's. Please advise.,technical_issue,AmazonHelp,447275,447277
+99,"Dear , if you don’t sell me a in Belgium today, I will haunt you ‘til you expand my .co.uk #prime account to Belgium AND sell ALL your hardware in Belgium. Your only quite happy customer, me. #amazon #kindle #blackfriday",technical_issue,AmazonHelp,130237,130239
+100,"The traffic bit is not working.The 2 help pages provided, I had already done.Then one of the reps said traffic conditions is not a feature, yet it is advertised & even says how to get traffic conditions on the help page. I'm only getting time & best route. I know that, I drive it",technical_issue,AmazonHelp,141952,141936
+101,I am not able to login,account_or_access,AmazonHelp,280677,280675
+102,I want to open my suspended ac Please check __email__,account_or_access,AmazonHelp,210497,210496
+103,I notice a possible glitch on the sign in page of your iPhone app,account_or_access,AmazonHelp,324373,324374
+104,PLEASE HELP. my account has been hacked. i’ve sent a dm about all the info,account_or_access,AmazonHelp,324457,324458
+105,Lost my 2FA device. But the alternative login page gives a 404. So I’m locked out :(,account_or_access,AmazonHelp,439618,439617
+106,"Lost my apps on my tablet..reload Amazon and Kindle, can sign into Amazon but not Kindle!!",account_or_access,AmazonHelp,205089,205090
+107,"My Amazon username is Dave Lampert, my account password is amazonsucks, my cell phone is (cont)",account_or_access,AmazonHelp,420404,420405
+108,"Dear Our seller account still suspended,none responded us yet,Whats going on exactly?respond us asap",account_or_access,AmazonHelp,210504,210503
+109,"I'm having problem with my app! Keeps telling me password wrong, & I change then same again - help please!",account_or_access,AmazonHelp,330902,330903
+110,Did u guys get hack or was there mass hack account i log in today an i had diff username an all my info was gone,account_or_access,AmazonHelp,311323,311324
+111,It's sorted. I went onto community help and managed to get my account back(the hacker hadn't changed my password).x,account_or_access,AmazonHelp,249107,249105
+112,I can’t register my kindle. Had to deregister it and now it’s saying my account email/password not recognised. Help!!!!!,account_or_access,AmazonHelp,365633,365634
+113,"guys i cant log into kindle cloud reader online, it keeps coming up with ""an error occured when trying to load the library""",account_or_access,AmazonHelp,179408,179409
+114,"need to change my accnts mobile number. Previous email id now invalid, so while login the code being sent to old id. Pls help",account_or_access,AmazonHelp,227853,227855
+115,Can't! Acct hacked. Autoreply: This email address doesnt accept emails. contact Amazon customer service if you need assistance.,account_or_access,AmazonHelp,38198,38200
+116,"um, my account was locked as soon as I tried to login on desktop. I still haven’t received an email on how to get it unlocked...",account_or_access,AmazonHelp,3731,3733
+117,"Dear friends, I cannot possibly sign in to my account; I have tried changing my password a bunch of times now to no avail, heeeelp!",account_or_access,AmazonHelp,46552,46553
+118,"Yes they are the ones that gave the stupid advice to log into my account when it's locked!!!! I guess no one can help, thanks for nothing",account_or_access,AmazonHelp,448707,448708
+119,"I can't complete the form because it asks me to sign in, but because it's a consumer-side form it doesn't recognise my Vendor Central login.",account_or_access,AmazonHelp,30017,30016
+120,I was looking for product. I started placing order from 22-nov itself but your amazon app (which is crap) didnt send me OTP on time and few times transaction got declined.,account_or_access,AmazonHelp,133808,133809
+121,"my seller account has been hacked and I kept getting the same run around from you guys, but no one has been able to resolve the issue. I’ve literally been assigned 3 different case numbers 😡👎🏼#amazonselleraccounthacked",account_or_access,AmazonHelp,442893,442894
+122,"I can't send that info because the information they want doesn't exist. My card was frauded (through Amazon pay FYI) so has been cancelled so I cannot reauthorise it to access my account.Anyway,amazon locked it, why should I have to go to all the effort to hunt out a fax machine?",account_or_access,AmazonHelp,404089,404088
+123,It says in stock,product_or_service_info,AmazonHelp,348499,348496
+124,fucking site and fraud service and offer...,product_or_service_info,AmazonHelp,318783,318785
+125,"what order lmao, there's no beef available on the site",product_or_service_info,AmazonHelp,227694,227692
+126,Hey till when is your exchange offer on electronics on till?,product_or_service_info,AmazonHelp,249926,249927
+127,I did and the message that appeared was “this service is unavailable”,product_or_service_info,AmazonHelp,377944,377943
+128,"I thought as long as I get the Ronaldo Edition, I get all the promo benefits???",product_or_service_info,AmazonHelp,199962,199963
+129,I think 12 hours completed.😎 Till now no one called me. #FakeAmazonOffers #FraudAmazon,product_or_service_info,AmazonHelp,282518,282517
+130,Ce matin m'a provoqué avec la promo de la Nvidia shield... J'ai été contraint d'acheter....,product_or_service_info,AmazonHelp,138898,138899
+131,"Hi, prime was available for 599/- per year few days back. Can you remind me when it will be back?",product_or_service_info,AmazonHelp,22192,22193
+132,I participated in a promotion which should have given me a 10 dollar credit. Its not in my account. Help?,product_or_service_info,AmazonHelp,411110,411112
+133,"ibwz tryng 2 pik dis deal,bt m getting extra 1k exchange nly in spite of 2k. So wts actually offer. Plz explain",product_or_service_info,AmazonHelp,179321,179322
+134,anyone else having issues with today? Can watch any TV show but all films showing as not available in my region???,product_or_service_info,AmazonHelp,113750,113751
+135,just received an email from __email__ offering $50 off any $100 purchase... Sounds pretty... scammy. What do you think?,product_or_service_info,AmazonHelp,425194,425195
+136,I have raised a complaint today evening 👍 any cash back offers for jio/airtel users on upgrading to Amazon prime account. ?,product_or_service_info,AmazonHelp,179467,179465
+137,no one is helping me in the order #4__credit_card__ i have book redmi 4 in offer after two days they cancel my order#unexpcted,product_or_service_info,AmazonHelp,379395,379396
+138,I sent an email Though I dont understand why I had to cuz all I want to do is turn off advertisements & promos on my lock screen,product_or_service_info,AmazonHelp,237884,237886
+139,I dont think that is what we were expected as a reply amazon! Here the qsn is if u didn't have the product y did u promote it?????,product_or_service_info,AmazonHelp,422294,363715
+140,"They are running a online e scam ,if u want to save ur money time and self respect stop buying from Amazon #fraudamazon#cheatingoffers",product_or_service_info,AmazonHelp,349754,349755
+141,whts benefit? chatted wth 1 of ur executive. aprt fr4 Sorry n Apology he has nothing 2 offer. if u cn do something better thn reply or leave,product_or_service_info,AmazonHelp,17257,17258
+142,Amazon offering Fake Discounts #Fake Bose Products in India #lets uninstall Amazon from India #Daylight robbery by # # #JeffBezos #Amazon India is Cheating Customer#,product_or_service_info,AmazonHelp,69820,69821
+143,"I was purchased the wrong mobile. I was not aware that, it is not compatible with JIO sim. I want to return my order 404-9391432-5602714. But amazon support team is not allowing to return my product. It is less than 10 Days.",product_or_service_info,AmazonHelp,463915,463917
+144,Was told I can’t get the price adjustment. I received the item 10 days ago. They offered me a slight discount. Bought the item for $299.99 saw it was marked down to $229.99. Simply asked for a price adjustment and they said I can only return it and buy a new one to get the price.,product_or_service_info,AmazonHelp,136135,136137
+145,such a poor service,complaint_or_feedback,AmazonHelp,281978,281980
+146,The customer care executives are so rude,complaint_or_feedback,AmazonHelp,378436,378434
+147,someone scamming using your name.. Letting you know..,complaint_or_feedback,AmazonHelp,225249,225250
+148,No use done everything still worst service from amazon..pathatic,complaint_or_feedback,AmazonHelp,274696,274695
+149,Bitter experience with bcoz of which i missed oneplus5T .Very poor service,complaint_or_feedback,AmazonHelp,75913,75914
+150,"Now I don't need product , I placed my order from Jeff I am hugely disappointed...",complaint_or_feedback,AmazonHelp,379628,379627
+151,pathetic service i am not happy with your service inspite i am prime user of Amazon service.,complaint_or_feedback,AmazonHelp,420217,420218
+152,can you explain why you just sent me one CD in a box bigger than my TV?! This is beyond ridiculous.,complaint_or_feedback,AmazonHelp,95406,95407
+153,I have called amazon thrice in the last 12 hours and there has been no resolution . This is ridiculous .,complaint_or_feedback,AmazonHelp,327048,327046
+154,Horrible response form your team still unable to solve the Issue....can someone call me on +91 9096377143...,complaint_or_feedback,AmazonHelp,29574,29572
+155,1/2 I always prefer Amazon for shopping but this time you guys serve pathetic service. Order# 407-1031873-8838712,complaint_or_feedback,AmazonHelp,180004,180005
+156,I have done my bit long back but the response from your end is pathetic. Pls relook and update immediately. Thanks!!!,complaint_or_feedback,AmazonHelp,349427,349426
+157,"& ur Cust care team is so pathetic Gowri Ganesh- Sir, it will take 30 mins, then 1 hr Muzzamil- Sir it will take 4 hours",complaint_or_feedback,AmazonHelp,333170,333172
+158,"There's nothing worse than being scammed by a 3rd party seller on and finding out on your favorite holiday, Thanksgiving 😣😔😭",complaint_or_feedback,AmazonHelp,108224,108226
+159,"horrible experience of buying washing machine, no return no replacement no escalation model only mails, last one to expect this!",complaint_or_feedback,AmazonHelp,284381,284383
+160,", Really Disappointed with Amazon. Brought the Moto G5s Plus and phone is having problem such as Microphone not good & overheating",complaint_or_feedback,AmazonHelp,422235,422236
+161,Oh your support has failed me this morning and I'm terribly disappointed. Normally I rave about Amazon customer service but not today.,complaint_or_feedback,AmazonHelp,89216,89218
+162,"Dear Amazon, Its Day 47 and i still dont see my review posted! How many more days wil u loot ur innocent customers? :O #ScamAtAmazon #Day47",complaint_or_feedback,AmazonHelp,258712,258714
+163,rudest CSR agent EVER!!!! Been shopping with you since 1999! YIKES! Prime membership FAIL - is there anyone that YOU can get me in touch with?,complaint_or_feedback,AmazonHelp,98686,98688
+164,"And when I complained, they were unhelpful and blase. They told me even today that it might arrive today. Despite UPS telling me that it wouldn't. They are rude and ill informed. And they lied.",complaint_or_feedback,AmazonHelp,86133,86132
+165,I’ve been very disappointed with the past year or so. I keep getting my prime orders late. I just had to cancel another late order because it’s not going to be here in time for my work’s donation to the . I ordered it a week in advance.,complaint_or_feedback,AmazonHelp,93544,93546
+166,I do not need it anymore now as it is will no longer meet the need it was supposed to. To think your advisers can lie to people and then fob me off is unacceptable.I could have gone out to the chemist or supermarket to buy but stayed home waiting for something that wasn't coming,complaint_or_feedback,AmazonHelp,134999,134998
+167,"GG , gg. :(",other,AmazonHelp,419050,419051
+168,U need any other evidence..,other,AmazonHelp,281602,281600
+169,Para todo lugar. A bateria é eterna,other,AmazonHelp,257834,190321
+170,Ok gracias por responder entonces esperare,other,AmazonHelp,169489,169487
+171,"Amazon UK, didn't even know Amazon IT was a thing.",other,AmazonHelp,183244,183245
+172,Have sent you the detailed mail . Please check and assist.,other,AmazonHelp,274720,274718
+173,She said she couldn't help at all until I call tomorrow after 5pm.,other,AmazonHelp,265996,265995
+174,Still have heard nothing from you. Cancel the order. What a fucking joke.,other,AmazonHelp,96845,96846
+175,"I have checked, I didnt receive any mail today from social media escalation team.",other,AmazonHelp,197948,197947
+176,...when is the results of #OnePlus5TAppQuiz will be announced???please let us know asap..,other,AmazonHelp,465098,465099
+177,Thanks i have done that but the ebook still rotates could it because shes using a childs setting?,other,AmazonHelp,436433,436431
+178,u only know copy and paste the line to satisfy customer from last 24hr u only saying u are working on it,other,AmazonHelp,379607,379611
+179,: . One order tossed onto lawn. Friday pkg left overnight at gate near street. No notification until today. BAD,other,AmazonHelp,323392,323394
+180,"Thank you! Your message has been sent. We will contact you within 12 business hours, 7 days a week 10:00 to 19:00 IST.",other,AmazonHelp,468803,468801
+181,i ordered an item and got a different one. I want to send it back to you. Can I send it from other country to you in the US?,other,AmazonHelp,349775,349777
+182,Gave my first order through Amazon pay but I'm yet to receive the 450 Rs cash back due. It's been more than 72 hrs. Help please!,other,AmazonHelp,417016,417017
+183,Of course you’ve missed it - that’s how you work and after 20 minutes on live chat you’ve still done nothing - do you take training in,other,AmazonHelp,313846,313845
+184,j'ai préco Need For Speed PayBack mais je peux payer que 80 Euro pour Need For Speed et SWBF2 sera envoyer le mois prochain au lui du 17 nov,other,AmazonHelp,422930,422932
+185,kudos to Reina on ur team... helped fix a mixed up address and get a pediatric cancer patient some fun toys quickly. What a great example of solid customer service. Thank you! 👍🏻💕,other,AmazonHelp,222907,222908
+186,"i have no idea, this was MONTHS ago and to be honest its kinda expected when you do so, there certainly wasnt anything saying i wouldnt get it or i would of shopped elseware obviously, kinda pointless having release dates on your site if you dont release the product to customers!",other,AmazonHelp,445562,445561
+187,help. I’m asking for 2 tickets,booking_or_travel,AmazonHelp,27407,27410
+188,How does that help us who wanted a ticket for 12th June???,booking_or_travel,AmazonHelp,135035,135034
+189,"Hi, when will you be sending out Ed Sheeran tickets out for June 2018?",booking_or_travel,AmazonHelp,180542,180543
+190,When you think you’ve got morrissey tickets then you get this email... What does this mean??,booking_or_travel,AmazonHelp,27394,27395
+191,greetings from . we wanted to be associated for Merchant onboarding for you. Plz guide or suggest,booking_or_travel,AmazonHelp,181166,181167
+192,Usual ticket sale shambles. Very disappointing. Will have to try the general sale. Feel a bit misled.,booking_or_travel,AmazonHelp,28457,28458
+193,please resonpd on your ticket 323630 and take action against amzon .so that i can go ahead with cusomer court,booking_or_travel,AmazonHelp,65638,65637
+194,sucks never shopping from Amazon 30 days passed after booking the product still asking me to wait for 2 weeks....,booking_or_travel,AmazonHelp,401564,401565
+195,"why can't I buy tickets from you! In my basket then its says not available, no matter what option I select. #frustrated",booking_or_travel,AmazonHelp,136859,136860
+196,Morrissey presale allowing buying 2 tickets for 2 venues(altho email said 1 venue only).Will 2nd order be ok or cancelled?,booking_or_travel,AmazonHelp,56849,56851
+197,"Is your intellect challenged ? I have replied to the mail, put this issue here, what else do I do?take a flight to meet Jeff",booking_or_travel,AmazonHelp,389958,389957
+198,This was supposed to be a gift and the entire plan went for a toss. I will thing twice before booking anything in Amazon going forward.,booking_or_travel,AmazonHelp,467361,467359
+199,"Will ""follow the issue"" and ""open a ticket"" i cannot keep track of. I need to know when the product is g/ to ship, not more hollow promises.",booking_or_travel,AmazonHelp,257118,257120
+200,Hello Amazon. My creditcard issuer was so kind to provide me with an authorization code as you did made a reservation on my creditcard account the minute I placed the order. That code should help you to verify that the card belongs to me and my address - where can I send it to?,booking_or_travel,AmazonHelp,89211,89206
