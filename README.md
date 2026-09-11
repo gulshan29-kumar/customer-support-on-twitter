@@ -256,4 +256,4 @@ python -m src.retrieval
 - Engineering Decisions: [`DECISION_LOG.md`](DECISION_LOG.md)
 - Golden Evaluation Set Methodology: [`docs/golden_set.md`](docs/golden_set.md)
 - Top 5 Real Failure Modes: [`docs/failure_analysis.md`](docs/failure_analysis.md)
-- Deconstruction of Headline Numbers: [`docs/misleading_headline.md`](docs/misleading_headline.md)
+
