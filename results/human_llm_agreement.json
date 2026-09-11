@@ -1,0 +1,5 @@
+{
+  "status": "Human ratings pending",
+  "message": "Template provided at evaluation/human_ratings_template.csv. Awaiting manual human annotation.",
+  "metrics": null
+}
